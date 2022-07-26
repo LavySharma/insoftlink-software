@@ -1,0 +1,42 @@
+.container {
+  margin-right: 10px;
+  width: 100vw;
+}
+
+.cardstyling {
+  border-radius: 5px;
+}
+.c1 {
+  height: 50vh;
+  display: block;
+  color: rgb(0, 0, 77);
+  width: 25vw;
+  margin-right: 5px;
+  margin-left: 4px;
+}
+
+.cards-heading {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  margin-top: 20%;
+  text-decoration: underline;
+  font-weight: 2000;
+}
+
+.cards-content {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: white;
+  line-height: 2;
+  font-weight: 600;
+}
+.cardstyling:hover {
+  box-shadow: 4px 4px 10px 0px white;
+  transform: translateY(-5);
+  transition-duration: 0.5s;
+}
+/*NEW STYLING*/
+.container-stack {
+  margin-top: 8%;
+  margin-left: 8%;
+  background-color: rgb(0, 0, 77);
+}

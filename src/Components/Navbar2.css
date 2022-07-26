@@ -1,0 +1,32 @@
+nav {
+  background-color: rgb(0, 0, 77);
+  height: 15vh;
+}
+.topnav a {
+  padding: 30px 28px;
+  color: white;
+  font-family: "Times New Roman", Times, serif;
+  font-size: x-large;
+  text-decoration: none;
+  font-stretch: ultra-expanded;
+}
+.nav-cont {
+  float: right;
+  margin-top: 2.5%;
+}
+.topnav a:hover {
+  color: white;
+  text-decoration-line: underline;
+}
+.topnav a.active {
+  border-bottom: 2px solid white;
+}
+.btn {
+  color: white;
+  font-size: x-large;
+  margin-bottom: 1%;
+  font-stretch: ultra-expanded;
+}
+.btn:hover {
+  background-color: white;
+}
